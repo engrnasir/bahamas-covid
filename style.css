@@ -58,7 +58,7 @@ header .logo-wrapper{
 }
 .login-btn p{
     text-align: left;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 500;
     color: white;
 
@@ -136,7 +136,7 @@ main .heading2{
         
     }
     .login-btn p{
-        font-size: 10px;
+        font-size: 14px;
     }
 }
 @media only screen and (max-width:700px) {
